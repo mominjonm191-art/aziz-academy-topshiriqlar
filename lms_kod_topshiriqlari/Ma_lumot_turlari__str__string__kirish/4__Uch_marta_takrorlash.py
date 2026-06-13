@@ -1,3 +1,2 @@
-word = (input())
-result = word * 3
-print(result)
+word = input()
+print(word * 3)
