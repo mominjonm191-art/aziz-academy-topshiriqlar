@@ -1,2 +1,2 @@
-x = int(input())
-print(x>9)
+n = int (input())
+print((10 <= n <= 20) or (n > 90))
