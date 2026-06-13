@@ -1,3 +1,3 @@
-float_son = float(input())
-butun_qism = int(float_son)
-print(f"As int: {butun_qism}")
+n =  float(input())
+result = int(n)
+print("As int:", result)
