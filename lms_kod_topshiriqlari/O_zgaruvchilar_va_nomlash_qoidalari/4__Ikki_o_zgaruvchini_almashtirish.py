@@ -1,4 +1,4 @@
 a, b = map(int, input().split())
-
-print(f"a={b}")
-print(f"b={a}")
+a, b = b, a
+print(f"a={a}")
+print(f"b={b}")
