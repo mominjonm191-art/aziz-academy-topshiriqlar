@@ -1,4 +1,3 @@
-numbers = (input())
-num_list = list(map(int, numbers.split()))
-average = sum(num_list) / len(num_list)
-print(f"Average: {average}")
+a, b, c = map(int, input().split())
+average = (a + b + c) / 3
+print("Average:", average)
