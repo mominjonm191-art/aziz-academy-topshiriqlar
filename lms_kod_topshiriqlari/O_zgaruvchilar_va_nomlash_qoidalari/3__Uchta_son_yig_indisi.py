@@ -1,3 +1,3 @@
-a,b,c = map(int, input().split())
+a,b , c = map(int, input().split())
 summa = a + b + c
-print("Yig'indi:",summa)
+print("Yig'indi:", summa)
