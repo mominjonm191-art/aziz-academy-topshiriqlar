@@ -1,3 +1,2 @@
-satr = (input())
-natija = satr.replace(" ", "-")
-print(natija)
+s = input()
+print(s.replace(" ", "-"))
