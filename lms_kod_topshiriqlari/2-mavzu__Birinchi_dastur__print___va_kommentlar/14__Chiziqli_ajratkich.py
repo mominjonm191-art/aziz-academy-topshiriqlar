@@ -1,4 +1,3 @@
-
 print("----------")
-print("Aziz Academy") 
-print("----------") 
+print("Aziz Academy")
+print("----------")
