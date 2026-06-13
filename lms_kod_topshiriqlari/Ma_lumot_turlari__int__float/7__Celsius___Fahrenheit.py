@@ -1,3 +1,3 @@
-C = float(input())
-F = C * 9/5 + 32
-print(f"F: {F}")
+celsius = float(input())
+fahrenheit = celsius * 9/5 + 32
+print(f"F: {fahrenheit}")
