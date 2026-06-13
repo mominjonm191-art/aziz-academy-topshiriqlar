@@ -1,3 +1,3 @@
-butun_son = int(input())
-natija = float(butun_son)
-print(f"As float: {natija}")
+n = int(input())
+result = float(n)
+print("As float:", result)
