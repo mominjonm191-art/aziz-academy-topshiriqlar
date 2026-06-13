@@ -1,2 +1,2 @@
-x=int(input())
-print(f"Natija: {x*x}")
+yosh = int(input())
+print(f"Natija: {yosh ** 2}")
