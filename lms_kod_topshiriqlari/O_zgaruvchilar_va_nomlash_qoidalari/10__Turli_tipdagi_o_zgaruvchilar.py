@@ -1,4 +1,4 @@
 name = input()
-age = input()
-message = f"{name} {age} yoshda"
+age =int(input())
+message = name + " " + str(age) + " yoshda"
 print(message)
