@@ -1,3 +1,2 @@
-satr = (input())
-natija = satr.strip()
-print(natija)
+s = input()
+print(s.strip())
