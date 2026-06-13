@@ -1,4 +1,4 @@
-int_number = int(input())
-float_number = float(input()) 
-sum_result = int_number + float_number
-print(f"Sum: {sum_result}")
+a = int(input())
+b = float(input())
+s = a + b 
+print(f"Sum: {s}")
