@@ -1,3 +1,3 @@
-satr = (input())
-a_soni = satr. count('a')
-print(f"a: {a_soni}")
+s = input()
+count_a = s.count('a')
+print("a:", count_a)
