@@ -1,4 +1,4 @@
-price = float(input())
-quantity = int(input())
-total = price * quantity
-print(f"Total: {total}")
+narx = float(input())
+miqtor = int(input())
+jami = narx * miqtor
+print(f"Total: {jami}")
