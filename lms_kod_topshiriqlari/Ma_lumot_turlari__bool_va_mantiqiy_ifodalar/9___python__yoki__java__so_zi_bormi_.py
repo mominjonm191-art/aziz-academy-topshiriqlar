@@ -1,5 +1,2 @@
-x = input()
-if x[0] == "c":
-    print(False)
-else:
-    print(True)
+text = input().lower()
+print("python" in text or "java" in text)
