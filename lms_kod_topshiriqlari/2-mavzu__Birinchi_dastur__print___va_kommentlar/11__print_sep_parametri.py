@@ -1,1 +1,1 @@
-print("Python","1","dars", sep="-")
+print("Python",1,"dars", sep="-")
