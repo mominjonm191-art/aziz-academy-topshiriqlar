@@ -1,3 +1,3 @@
-satr = (input())
-print(satr.upper())
-print(satr.lower())
+s = input()
+print(s.upper())
+print(s.lower())
