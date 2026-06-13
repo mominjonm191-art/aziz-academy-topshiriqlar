@@ -1,5 +1,3 @@
-a = input()
-b = input()
-a_bool = a == "True"
-b_bool = b == "True"
-print(a_bool and b_bool)
+a = input() == "True"
+b = input() == "True"
+print(a and b)
