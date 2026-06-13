@@ -1,3 +1,3 @@
 son = float(input())
-yarim = son / 2
-print(f"Half: {yarim}")
+half = son / 2
+print(f"Half: {half}")
