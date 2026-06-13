@@ -1,5 +1,4 @@
-
-print("Dars jadvali")
-print("Dushanba")
-print("Seshanba")
-print("Chorshanba")
+print ("Dars jadvali")
+print ("Dushanba")
+print ("Seshanba")
+print ("Chorshanba")
