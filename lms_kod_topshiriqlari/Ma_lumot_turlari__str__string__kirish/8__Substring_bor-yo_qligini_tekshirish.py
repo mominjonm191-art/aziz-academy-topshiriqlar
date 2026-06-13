@@ -1,6 +1,7 @@
-matn = (input())
-substring = (input())
-if substring in matn:
+text = input()
+sub = input()
+if sub in text:
     print("YES")
 else:
     print("NO")
+    
