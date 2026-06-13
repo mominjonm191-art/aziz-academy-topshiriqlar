@@ -1,3 +1,3 @@
-a = input()
-b = input()
-print(f"Salom, {a} {b}!")
+ism = input()
+familiya = input()
+print(f"Salom, {ism} {familiya}!")
