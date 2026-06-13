@@ -1,2 +1,2 @@
-s = input()
-print(not (s == "True"))
+a = input() == "True"
+print(not a)
