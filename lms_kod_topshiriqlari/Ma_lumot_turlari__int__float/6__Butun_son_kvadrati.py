@@ -1,2 +1,2 @@
-x = int(input())
-print(x ** 2)
+n = int(input())
+print(n * n)
