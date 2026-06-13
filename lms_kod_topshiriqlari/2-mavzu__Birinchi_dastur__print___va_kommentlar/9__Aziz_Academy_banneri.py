@@ -1,3 +1,3 @@
 print("Aziz Academy")
-print("Python kursi")
-print("Birinchi modul: Kirish")
+print("Python kursi")      
+print("Birinchi modul: Kirish")      
