@@ -1,3 +1,3 @@
-t = int(input())
-p = 4 * t
-print(p)
+tomon = int(input())
+perimetr = 4 * tomon
+print(perimetr)
