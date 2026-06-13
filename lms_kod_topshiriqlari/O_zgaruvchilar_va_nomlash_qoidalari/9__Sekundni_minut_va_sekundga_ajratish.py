@@ -1,5 +1,5 @@
 sekund = int(input())
-m = sekund // 60
-s = sekund % 60
-print(f" Minut: {m}")
-print(f"Sekund: {s}")
+minut = sekund // 60
+qolgan_sekund = sekund % 60
+print("Minut:", minut)
+print("Sekund:", qolgan_sekund)
