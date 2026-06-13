@@ -1,3 +1,2 @@
-yosh = int(input())
-natija = yosh >= 18
-print(natija)
+age = int(input())
+print(age >= 18)
