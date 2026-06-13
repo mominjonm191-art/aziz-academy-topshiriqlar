@@ -1,2 +1,3 @@
-yosh= int(input())
-print(yosh+1)
+yosh = int(input())
+keyingi_yosh = yosh + 1
+print(keyingi_yosh)
