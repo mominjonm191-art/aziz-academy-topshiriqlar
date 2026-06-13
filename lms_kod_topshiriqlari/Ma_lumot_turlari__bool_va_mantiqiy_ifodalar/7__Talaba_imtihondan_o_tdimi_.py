@@ -1,3 +1,2 @@
-ball = int(input())
-natija = ball >= 60
-print(natija)
+score = int(input())
+print(score >= 60)
